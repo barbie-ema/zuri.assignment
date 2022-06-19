@@ -1,1 +1,1 @@
-# zuriassignment.py
+# zuri.assignment.py
